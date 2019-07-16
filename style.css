@@ -1,4 +1,11 @@
-#first {
+.card {
+border-radius: 10px;
+};
+
+.h1 {
+    text-align: center;
+}
+  #first {
     background: url(https://campaigns-test.scdn.co/images/premium_dancer.png) right bottom / 450px no-repeat rgb(80, 155, 245);    display: flex;
     height: 520px;
     color: white;
